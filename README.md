@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there, meu nome é Tiago 👋
+### Sou desenvolvedor Back end!
+!(Apaixonado por tecnologia, no momento estou em um cargo de suporte, mas no tempo livre amo programar!)
 
-<!--
-**macichonek/macichonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Desenvolvedor Back End.
+Atualmente estou atualizando minhas redes socias, e desenvolvendo sistemas para meu portifólio.
 
 Skills:
 
