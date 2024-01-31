@@ -7,4 +7,4 @@ Atualmente estou atualizando minhas redes socias, e desenvolvendo sistemas para 
 
 Skills:
 
-Java/ Javascript/ Html/ PHP/ CSS/ Mysql
+Java/ Javascript/ Html/ PHP/ CSS/ Mysql/ C#
